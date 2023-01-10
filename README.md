@@ -22,3 +22,6 @@ First install the AWS Authentication Connector and then install this mpk.
 
 # Development
 To contribute to this project fork the project and submit a pull request
+Ivy is used to manage dependencies, to add new dependencies:
+ - Edit the ivy.xml to contain the new dependencies
+ - Run runivy.cmd
